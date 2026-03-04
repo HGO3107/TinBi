@@ -226,7 +226,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|3426460|2054860|b14a648b-dd88-46b5-8fa0-1cc1e5fa1f18|5be8ea4d-ec4f-490f-a19c-6ad65832cc17|/f11802ff-0b84-43dc-b27c-9e4f99e824ab|/f11802ff-0b84-43dc-b27c-9e4f99e824ab|/f11802ff-0b84-43dc-b27c-9e4f99e824ab",
+        "NOT ISSUE"
+      ],
+      [
+        "pin_to_pin|368300|2098040|46b44869-df50-49a5-a0bf-682336f2589f|201e8ef5-20fc-4832-b01c-b13fb76816aa|/f11802ff-0b84-43dc-b27c-9e4f99e824ab|/f11802ff-0b84-43dc-b27c-9e4f99e824ab|/f11802ff-0b84-43dc-b27c-9e4f99e824ab",
+        "NOT AN ISSUE"
+      ]
+    ],
     "meta": {
       "version": 0
     },
